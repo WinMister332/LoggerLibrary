@@ -1,7 +1,7 @@
 # LoggerLibrary
 A simple logger class that was built in C# for a various number of applications.
 
-###Implement into application
+### Implement into application
 
 ```CSharp
 imports System;
