@@ -33,3 +33,21 @@ partial class Program
   }
 }
 ```
+#### Logger.Log methods
+logger.Log("Hello Word!");
+Output:
+```
+Hello World!
+```
+logger.Log(LogStatus.INFO, "Hello World!");
+```
+[12:37:48][LoggerLibrary][INFO] Hello World!
+```
+logger.Log(LogStatus.INFO, "Hello World!", new string[] {"This", "is", "a", "list!"}.ToList());
+```
+[12:37:48][LoggerLibrary][INFO] Hello World:
+    - This
+    - is
+    - a
+    - list
+```
