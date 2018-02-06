@@ -24,7 +24,7 @@ partial class Program
   {
     //The arguments in the logger: bool - for whether the logger allows debug output. string - The path the log files are saved to.
     //Remove the string value for NO log file.
-    logger = new Logger(true, $"{Directory.GetCurrentDirectory()}\Logs");
+    logger = new Logger(true, new DirectoryInfo($@"{Directory.GetCurrentDirectory()}\Logs"));
   }
   
   public void Start()
