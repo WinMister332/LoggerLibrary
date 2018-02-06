@@ -9,6 +9,7 @@ imports System.IO;
 imports System.Text;
 imports System.Ling;
 imports System.Collections.Generic;
+imports WMLoggerLibrary;
 
 partial class Program
 {
