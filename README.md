@@ -1,4 +1,4 @@
-# LoggerLibrary
+# LoggerSharp
 A simple logger class that was built in C# for a various number of applications.
 
 ### Implement into application
