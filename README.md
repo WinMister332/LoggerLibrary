@@ -1,7 +1,7 @@
 # LoggerSharp
 A simple logger class that was built in C# for a various number of applications.
 
-
+<center>
 [![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg?style=for-the-badge)](https://www.nuget.org/packages/LoggerSharp/1.0.5)
 
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.AspNetCore.Mvc.svg?style=for-the-badge)](https://www.nuget.org/stats/packages/LoggerSharp?groupby=Version)
@@ -11,7 +11,7 @@ A simple logger class that was built in C# for a various number of applications.
 [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=for-the-badge)](https://github.com/WinMister332/LoggerSharp/issues)
 
 [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=for-the-badge&label=Fork)](https://github.com/WinMister332/LoggerSharp/network/members)
-
+</center>
 
 ### Implement into application
 
