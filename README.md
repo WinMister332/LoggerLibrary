@@ -1,5 +1,5 @@
 # LoggerSharp
-A simple logger class that was built in C# for a various number of applications.
+A simple logging interface designed in C# to be used with .NETStandard based applications including WinForms.
 
 ### Implement into application
 
