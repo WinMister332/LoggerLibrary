@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.5</Version>
+    <Authors>WinMister332</Authors>
+    <Company>Vanros Corperation</Company>
+    <Description>A simple logging interface designed in C# to be used with .NETStandard based applications including WinForms.</Description>
+    <PackageReleaseNotes>Fixed Errors, Polished Output classes, and Added CONSOLE class with some custom console methods and System.Console methods.</PackageReleaseNotes>
+    <Copyright>Copyright © 2017-2018 Vanros Corperation</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/WinMister332/LoggerSharp/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/WinMister332/LoggerSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/WinMister332/LoggerSharp</RepositoryUrl>
+    <PackageTags>Logger, Console, Logging, LogFile, Debugging</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
